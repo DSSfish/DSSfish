@@ -13,7 +13,7 @@
     <img align="center" alt="DSS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="DSS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="DSS-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-    <img align="right" alt="DSS-pic" width="170" height="170" style="border-radius:50px;" src="https://media.discordapp.net/attachments/997720180266373120/997730587660001290/gifgithub.png?width=566&height=566">
+    <img align="right" alt="DSS-pic" height="170" style="border-radius:50px;" src="https://media.discordapp.net/attachments/997720180266373120/997738762450780210/1534_CnGQTOfQ.png?width=566&height=566">
     <!--<h3>Planning to:
     <img align="center" alt="DSS-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></h3>-->
   </h3>
