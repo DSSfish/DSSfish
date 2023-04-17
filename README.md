@@ -1,6 +1,6 @@
 <h1 align="center">🌃 Bem-Vindo ! 💙</h1>
 <div><h2 align="left">Interessado na área de Front-End, Desenvolvimento de Games
-     e focado no Design Gráfico</h2></div>
+     mas focado no Design Gráfico</h2></div>
        <!--<div>
     <a href = "mailto:#@gmail.com"><img src="https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
