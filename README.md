@@ -1,6 +1,6 @@
 # 🌃 Bem-Vindo ! 💙
 <div>
-  <h3 align="left">Interessado na área de front-end
+  <h3 align="left">Interessado na área de Front-End, Desenvolvimento de Games
      e focado no Design Gráfico</h3></div>
 <a href="https://github.com/DSSfish">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DSSfish&show_icons=true&theme=transparent"/>
