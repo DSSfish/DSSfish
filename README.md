@@ -29,5 +29,5 @@
   ##
   
  <div align="center"><br>
- <img height="300px" alt="gif" src="blueCity2.gif">
+ <img height="300px" alt="gif" src="campfire2.gif">
  </div>
