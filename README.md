@@ -1,4 +1,4 @@
-# 🌃 Bem-Vindo ! 💙
+<h1 align="center">🌃 Bem-Vindo ! 💙</h1>
 <div><h2 align="left">Interessado na área de Front-End, Desenvolvimento de Games
      e focado no Design Gráfico</h2></div>
        <!--<div>
@@ -7,7 +7,7 @@
     <a href="https://www.behance.net/" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
      <a href="https://www.artstation.com/" target="_blank"><img src="https://img.shields.io/badge/artstation-blue?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>
     </div>-->
-     <h3 aligh="left">Estatísticas do Github:</h3>
+     <h3 aligh="left">📘 Estatísticas do Github:</h3>
 <div><a href="https://github.com/DSSfish">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DSSfish&show_icons=true&theme=transparent"/>
 </a>
