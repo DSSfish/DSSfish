@@ -5,9 +5,12 @@
     <img align="center" alt="DSS-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="DSS-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      e focado no Design Gráfico</h3></div>
-<div style="display:inline_block"><a href="https://github.com/DSSfish">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DSSfish&show_icons=true&theme=transparent"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSSfish&show_icons=true&theme=transparent"/></div>
+<a href="https://github.com/DSSfish">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DSSfish&show_icons=true&theme=transparent"/>
+</a>
+<a href="https://github.com/DSSfish">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSSfish&show_icons=true&theme=transparent"/>
+</a>
   
   ##
   
