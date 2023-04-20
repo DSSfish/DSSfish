@@ -8,7 +8,7 @@
      <!--<a href="https://www.artstation.com/" target="_blank"><img src="https://img.shields.io/badge/artstation-blue?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>-->
     </div>
     <details>
-     <summary>📘 Estatísticas do Github:</summary>
+     <summary>📘 Estatísticas do Github:</summary><br>
 <div align="center"><a href="https://github.com/DSSfish">
   <img height="auto" width="32%" src="https://github-readme-stats.vercel.app/api?username=DSSfish&show_icons=true&theme=transparent"/>
 </a>
