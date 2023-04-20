@@ -4,7 +4,7 @@
        <div>
     <!--<a href = "mailto:#@gmail.com"><img src="https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
     <!--<a href="https://www.linkedin.com/in/#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
-    <a href="https://www.behance.net/danielsatiro" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>-->
+    <a href="https://www.behance.net/danielsatiro" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
      <!--<a href="https://www.artstation.com/" target="_blank"><img src="https://img.shields.io/badge/artstation-blue?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>-->
     </div>
      <h3 aligh="left">📘 Estatísticas do Github:</h3>
