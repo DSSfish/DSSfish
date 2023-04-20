@@ -7,13 +7,17 @@
     <a href="https://www.behance.net/danielsatiro" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
      <!--<a href="https://www.artstation.com/" target="_blank"><img src="https://img.shields.io/badge/artstation-blue?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>-->
     </div>
-     <h3 aligh="left">📘 Estatísticas do Github:</h3>
-<div><a href="https://github.com/DSSfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DSSfish&show_icons=true&theme=transparent"/>
+    <details>
+     <summary>📘 Estatísticas do Github:</summary>
+<div align="center"><a href="https://github.com/DSSfish">
+  <img height="auto" width="32%" src="https://github-readme-stats.vercel.app/api?username=DSSfish&show_icons=true&theme=transparent"/>
 </a>
 <a href="https://github.com/DSSfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSSfish&show_icons=true&theme=transparent"/>
-</a></div>
+  <img height="auto" width="28.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSSfish&show_icons=true&theme=transparent"/>
+</a>
+<a href="https://github.com/DSSfish">
+     <img height="auto" width="33.5%"src="https://github-readme-streak-stats.herokuapp.com/?user=DSSfish&show_icons=true&theme=transparent" /></div>
+     </details>
 <div><br>
     <img align="left" alt="DSS-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="left" alt="DSS-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
