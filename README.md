@@ -18,16 +18,19 @@
 <a href="https://github.com/DSSfish">
      <img height="auto" width="33.5%"src="https://github-readme-streak-stats.herokuapp.com/?user=DSSfish&show_icons=true&theme=transparent" /></div>
      </details>
-<div><br>
+     <p>Estudando:</p>
+<div>
     <img align="left" alt="DSS-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="left" alt="DSS-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="left" alt="DSS-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="right" alt="DSS-PS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-    <img align="right" alt="DSS-AI" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-    <img align="right" alt="DSS-Pr" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
-    <img align="right" alt="DSS-AE" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-    <img align="right" alt="DSS-Gimp" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
-    <img align="right" alt="DSS-Ink" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
+</div>
+<div><br>
+    <img align="left" alt="DSS-PS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+    <img align="left" alt="DSS-AI" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+    <img align="left" alt="DSS-Pr" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
+    <img align="left" alt="DSS-AE" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+    <img align="left" alt="DSS-Gimp" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
+    <img align="left" alt="DSS-Ink" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
   </div>
   
   ##
