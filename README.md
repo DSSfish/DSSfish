@@ -5,6 +5,11 @@
 <div align="center">
 <img width=70% src=https://i.pinimg.com/1200x/86/64/6e/86646e972075bfd2c4291791d305a209.jpg>
 </div>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
 <div>
   <h2>Quer saber mais sobre meu trabalho?</h2>
   <a src="">Visite meu próprio <strong>PORTFÓLIO!</strong></a>
