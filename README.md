@@ -1,5 +1,12 @@
 <div>
-  <p>Olá, sou um aprendiz por "hobby", pode se dizer que estou aberto para aprender o que der e vier mas ainda assim estou com objetivo de ser um <strong>desenvolvedor de jogos</strong></p>
+  <p>Olá, seja bem-vindo!</p>
+  <p>Sou um aprendiz por "hobby", pode se dizer que estou aberto para aprender o que der e vier mas ainda assim estou com objetivo de ser um <strong>Desenvolvedor de Jogos</strong></p>
+  <p>Estou estudando na área de Design Gráfico, Técnologia da Informação</p>
+
+  <h2>Quer saber mais sobre meu trabalho?</h2>
+  <a src="">Visite meu próprio <strong>PORTFÓLIO!<strong></a>
+  <a src="">Linkedin</a>
+  <a src="">Behance</a>
 </div>
 
 <div align="center">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
