@@ -1,5 +1,5 @@
 <div>
-  <p>Olá, sou um aprendiz por "hobby", pode se dizer que estou aberto para aprender o que der e vier mas ainda assim estou com objetivo de ser um <strong>desenvolvedor de jogos<strong></p>
+  <p>Olá, sou um aprendiz por "hobby", pode se dizer que estou aberto para aprender o que der e vier mas ainda assim estou com objetivo de ser um <strong>desenvolvedor de jogos</strong></p>
 </div>
 
 <div margin="left">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
